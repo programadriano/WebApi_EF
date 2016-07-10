@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title></title>  
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script>
+        $(function () {
+			    
+            $.post("http://localhost:51589/api/Usuarios",{Nome:'Adriano',PerfilId:1}, function( data ) {
+				alert('Usuário salvo com sucesso!');
+			});
+        }); 
+    </script>
+</head>
+<body> 
+</body>
+</html>
