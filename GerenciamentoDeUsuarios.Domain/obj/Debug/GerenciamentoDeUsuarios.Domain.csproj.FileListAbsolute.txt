@@ -3,8 +3,3 @@ c:\users\thiago\documents\visual studio 2015\Projects\GerenciamentoDeUsuarios\Ge
 c:\users\thiago\documents\visual studio 2015\Projects\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\obj\Debug\GerenciamentoDeUsuarios.Domain.csprojResolveAssemblyReference.cache
 c:\users\thiago\documents\visual studio 2015\Projects\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\obj\Debug\GerenciamentoDeUsuarios.Domain.dll
 c:\users\thiago\documents\visual studio 2015\Projects\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\obj\Debug\GerenciamentoDeUsuarios.Domain.pdb
-C:\BandCMS\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\bin\Debug\GerenciamentoDeUsuarios.Domain.dll
-C:\BandCMS\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\bin\Debug\GerenciamentoDeUsuarios.Domain.pdb
-C:\BandCMS\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\obj\Debug\GerenciamentoDeUsuarios.Domain.csprojResolveAssemblyReference.cache
-C:\BandCMS\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\obj\Debug\GerenciamentoDeUsuarios.Domain.dll
-C:\BandCMS\GerenciamentoDeUsuarios\GerenciamentoDeUsuarios.Domain\obj\Debug\GerenciamentoDeUsuarios.Domain.pdb
